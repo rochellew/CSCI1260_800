@@ -1,0 +1,12 @@
+C:\Users\whroc\Documents\CSCI1260\InClassProject\RPGClassLibrary\bin\Debug\net7.0\RPGClassLibrary.deps.json
+C:\Users\whroc\Documents\CSCI1260\InClassProject\RPGClassLibrary\bin\Debug\net7.0\RPGClassLibrary.dll
+C:\Users\whroc\Documents\CSCI1260\InClassProject\RPGClassLibrary\bin\Debug\net7.0\RPGClassLibrary.pdb
+C:\Users\whroc\Documents\CSCI1260\InClassProject\RPGClassLibrary\obj\Debug\net7.0\RPGClassLibrary.csproj.AssemblyReference.cache
+C:\Users\whroc\Documents\CSCI1260\InClassProject\RPGClassLibrary\obj\Debug\net7.0\RPGClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\whroc\Documents\CSCI1260\InClassProject\RPGClassLibrary\obj\Debug\net7.0\RPGClassLibrary.AssemblyInfoInputs.cache
+C:\Users\whroc\Documents\CSCI1260\InClassProject\RPGClassLibrary\obj\Debug\net7.0\RPGClassLibrary.AssemblyInfo.cs
+C:\Users\whroc\Documents\CSCI1260\InClassProject\RPGClassLibrary\obj\Debug\net7.0\RPGClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\whroc\Documents\CSCI1260\InClassProject\RPGClassLibrary\obj\Debug\net7.0\RPGClassLibrary.dll
+C:\Users\whroc\Documents\CSCI1260\InClassProject\RPGClassLibrary\obj\Debug\net7.0\refint\RPGClassLibrary.dll
+C:\Users\whroc\Documents\CSCI1260\InClassProject\RPGClassLibrary\obj\Debug\net7.0\RPGClassLibrary.pdb
+C:\Users\whroc\Documents\CSCI1260\InClassProject\RPGClassLibrary\obj\Debug\net7.0\ref\RPGClassLibrary.dll

@@ -1,0 +1,18 @@
+C:\Users\whroc\Documents\CSCI1260\InClassProject\RPG Driver\bin\Debug\net7.0\RPG Driver.exe
+C:\Users\whroc\Documents\CSCI1260\InClassProject\RPG Driver\bin\Debug\net7.0\RPG Driver.deps.json
+C:\Users\whroc\Documents\CSCI1260\InClassProject\RPG Driver\bin\Debug\net7.0\RPG Driver.runtimeconfig.json
+C:\Users\whroc\Documents\CSCI1260\InClassProject\RPG Driver\bin\Debug\net7.0\RPG Driver.dll
+C:\Users\whroc\Documents\CSCI1260\InClassProject\RPG Driver\bin\Debug\net7.0\RPG Driver.pdb
+C:\Users\whroc\Documents\CSCI1260\InClassProject\RPG Driver\bin\Debug\net7.0\RPGClassLibrary.dll
+C:\Users\whroc\Documents\CSCI1260\InClassProject\RPG Driver\bin\Debug\net7.0\RPGClassLibrary.pdb
+C:\Users\whroc\Documents\CSCI1260\InClassProject\RPG Driver\obj\Debug\net7.0\RPG Driver.csproj.AssemblyReference.cache
+C:\Users\whroc\Documents\CSCI1260\InClassProject\RPG Driver\obj\Debug\net7.0\RPG Driver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\whroc\Documents\CSCI1260\InClassProject\RPG Driver\obj\Debug\net7.0\RPG Driver.AssemblyInfoInputs.cache
+C:\Users\whroc\Documents\CSCI1260\InClassProject\RPG Driver\obj\Debug\net7.0\RPG Driver.AssemblyInfo.cs
+C:\Users\whroc\Documents\CSCI1260\InClassProject\RPG Driver\obj\Debug\net7.0\RPG Driver.csproj.CoreCompileInputs.cache
+C:\Users\whroc\Documents\CSCI1260\InClassProject\RPG Driver\obj\Debug\net7.0\RPG Driver.csproj.CopyComplete
+C:\Users\whroc\Documents\CSCI1260\InClassProject\RPG Driver\obj\Debug\net7.0\RPG Driver.dll
+C:\Users\whroc\Documents\CSCI1260\InClassProject\RPG Driver\obj\Debug\net7.0\refint\RPG Driver.dll
+C:\Users\whroc\Documents\CSCI1260\InClassProject\RPG Driver\obj\Debug\net7.0\RPG Driver.pdb
+C:\Users\whroc\Documents\CSCI1260\InClassProject\RPG Driver\obj\Debug\net7.0\RPG Driver.genruntimeconfig.cache
+C:\Users\whroc\Documents\CSCI1260\InClassProject\RPG Driver\obj\Debug\net7.0\ref\RPG Driver.dll
