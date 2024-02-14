@@ -1,0 +1,30 @@
+﻿@page "/characters"
+@using AnimalCrossingCharacters.Data;
+
+<h3>Animal Crossing Characters</h3>
+
+<div class="container">
+    @foreach(var c in islanders)
+    {
+        <div class="row">
+            <div class="col-md-3">
+                <p>@c.Name</p>
+            </div>
+            <div class="col-md-4">
+                <img style="height:250px;" src="@c.ImageURL" />
+            </div>
+            <div class="col-md-5">
+                <p class="animalCrossingQuote">@c.Quote</p>
+            </div>
+        </div>
+    }
+</div>
+
+@code {
+    List<Character> islanders = new List<Character>
+    {
+        new Character("Isabelle", "https://dodo.ac/np/images/thumb/f/f5/Isabelle_NH_Transparent.png/1024px-Isabelle_NH_Transparent.png", "Good morning, Mayor!"),
+        new Character("Flick", "https://dodo.ac/np/images/thumb/f/f4/Flick_NH.png/300px-Flick_NH.png", "I love all bugs and their appendages! I've been traveling across all the islands looking for my soul bug—the perfect inspiration for my art!"),
+        new Character("Brooster","https://dodo.ac/np/images/thumb/3/38/Brewster_NH.png/300px-Brewster_NH.png","Was hoping I'd see you today... Care for some coffee? It's 200 Bells...")
+    };
+}
